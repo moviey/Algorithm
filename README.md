@@ -1,14 +1,5 @@
-# Algorithm
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+변경일 : 240805
+Git Algorithm(가제) 정리
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/moviey/Algorithm/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/moviey/Algorithm/tree/master/0001-two-sum) |
-<!---LeetCode Topics End-->
+LeetCode - LeetCode 풀이 모음
+프로그래머스 - 프로그래머스 풀이 모음
